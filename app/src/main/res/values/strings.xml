@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seekbar</string>
+    <string name="TitleApllication">Usando Seekbar</string>
+    <string name="lblTitleWindow1">O quão divertido você é?</string>
+    <string name="llbSubTitleWindow1">em uma escala de 0 até 10</string>
+    <string name="btnTitleVerifyResponse">Recuperar Progresso</string>
+</resources>
